@@ -4,11 +4,11 @@ The goal of this application is to make calls to the MarvelAPI.
 
 This project is using:
 
-SpringBoot;
-SpringMVC;
-JSP;
-Jackson;
-Jersey;
+    SpringBoot
+    SpringMVC;
+    JSP;
+    Jackson;
+    Jersey;
 
 To Run this project:
 
@@ -18,6 +18,6 @@ To Run this project:
     marvel.public.key = <public_key_generated_from_marvel_website>
 
     marvel.private.key = <private_key_generated_from_marvel_website>
-    
+
 3. mvn clean install;
 4. clean spring-boot:run;
