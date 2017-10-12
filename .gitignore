@@ -1,2 +1,8 @@
 #intellJ
 /.idea/
+
+#maven
+/target/
+
+#secrets
+secrets.properties
