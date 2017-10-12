@@ -11,7 +11,7 @@
 	<p>Teste CI&T - Entrando na home da Marvel API
 	<p>
 	<ul>
-		<li><a href="${pageContext.request.contextPath}/comics">Clique aqui</a> para acessar a lista de Comics</li>
+		<li><a href="${pageContext.request.contextPath}/comics/">Clique aqui</a> para acessar a lista de Comics</li>
 
 	</ul>
 
