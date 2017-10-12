@@ -2,6 +2,11 @@
 
 The goal of this application is to make calls to the MarvelAPI.
 
+Currently, its making call to two services:
+
+    GET /v1/public/comics
+    GET /v1/public/comics/{comicId}
+
 This project is using:
 
     SpringBoot
